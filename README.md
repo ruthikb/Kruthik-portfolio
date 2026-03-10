@@ -3,11 +3,11 @@
 <h1>Personal Portfolio Website - v0.1.0</h1>
 
 <h2>
- <center> <a href="https://abdul-rahman-9040.github.io/rahman-portfolio/">Abdul Rahman Portfolio</a></center>
+ <center> <a href="https://ruthikb.github.io/Kruthik-portfolio/">Kruthik Portfolio</a></center>
 </h2>
 
 <div>
-  <center><a href="https://abdul-rahman-9040.github.io/rahman-portfolio/">
+  <center><a href="https://ruthikb.github.io/Kruthik-portfolio/">
     
   </a></center>
 </div>
@@ -31,11 +31,10 @@
 ✔️ About\
 ✔️ Skills \
 ✔️ Qualifications \
-✔️ Projects\
 ✔️ Contact Me\
 ✔️ Footer
 
-To view a live example, **[click here](https://abdul-rahman-9040.github.io/rahman-portfolio/)**
+To view a live example, **[click here](https://ruthikb.github.io/Kruthik-portfolio/)**
 
 ## Tools Used 🛠️
 
